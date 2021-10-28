@@ -1,0 +1,16 @@
+Example rundown of "python renardo_v1.py" with Python3+:
+
+Entrer le nombre: 735
+Entrer le nombre 1: 10
+Entrer le nombre 2: 6
+Entrer le nombre 3: 8
+Entrer le nombre 4: 25
+Entrer le nombre 5: 75
+Entrer le nombre 6: 4
+Nombres disponibles [75, 25, 10, 8, 6, 4]
+
+760-25=735
+95*8=760
+91+4=95
+85+6=91
+75+10=85
